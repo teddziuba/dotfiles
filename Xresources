@@ -1,4 +1,4 @@
 xterm*background: black
 xterm*foreground: white
-xterm*faceName: Anonymous Pro
-xterm*faceSize: 12
+xterm*faceName: Inconsolata
+xterm*faceSize: 14
